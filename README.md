@@ -1,10 +1,3 @@
 - 👋 Hi, I’m @MazurJaku
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning hmm, coding!
-- 💞️ I’m looking to collaborate on it!
-- 📫 How to reach me is a mistery
-
-Rapapapa, chaanges!
-
-
-Another changes!
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently seeking entry level job
